@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(228, 240, 248);
+}
+
+.profile {
+    display: flex;
+    background-color: rgb(250, 216, 223);
+    padding: 10px 0 10px 10px;
+    width: 40%;
+    margin: 5px auto;
+}
+
+.profile img {
+    margin-right: 20px;
+    border: solid 5px snow;
+}
+
+.profile ul {
+    padding: 0;
+}
+
+.committee {
+    background-color: snow;
+    padding: 10px 0 10px 10px;
+    width: 30%;
+    margin: 5px auto;
+}
+
+.committee h3 {
+    border-bottom: solid 2px black;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.legislation {
+    padding: 10px 0 10px 10px;
+    width: 30%;
+    margin: auto;
+    background-color: lightskyblue;
+}
+
+.legislation h3 {
+    border-bottom: solid 2px black;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+
+li {
+    list-style: none;
+    padding: 0 0 15px 0;
+}
